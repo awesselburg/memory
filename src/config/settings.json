@@ -1,0 +1,10 @@
+{
+    "deck" : [
+        ["cat.jpeg", "cat.jpeg"],
+        ["dog.jpeg", "dog.jpeg"],
+        ["hase.jpeg", "hase.jpeg"],
+        ["huhn.jpeg", "huhn.jpeg"],
+        ["schaf.jpeg", "schaf.jpeg"],
+        ["maus.jpeg", "maus.jpeg"]
+    ]
+}
